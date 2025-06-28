@@ -1,0 +1,11 @@
+query,model,precision,recall,f1
+"Terdakwa tidak menyampaikan Surat Pemberitahuan (SPT) Tahunan Pajak Penghasilan secara sengaja, yang mengakibatkan kerugian pendapatan negara.",TF-IDF,0.0,0.0,0.0
+"Terdakwa mengkreditkan faktur pajak fiktif tanpa transaksi sebenarnya, melanggar UU Ketentuan Umum dan Tata Cara Perpajakan.",TF-IDF,0.0,0.0,0.0
+"Terdakwa menyampaikan faktur pajak tidak sah untuk mengurangi pajak yang terutang, menyebabkan kerugian negara.",TF-IDF,0.2,1.0,0.3333333333333333
+Terdakwa terbukti melakukan pelanggaran Pasal 39 UU KUP dan Pasal 3 UU TPPU karena menyembunyikan aset dari penghasilan tak sah.,TF-IDF,0.2,1.0,0.3333333333333333
+"Terdakwa tidak menyetorkan PPN yang telah dipungut kepada negara, berdasarkan pasal 39 ayat 1 huruf i UU KUP.",TF-IDF,0.0,0.0,0.0
+"Terdakwa tidak menyampaikan Surat Pemberitahuan (SPT) Tahunan Pajak Penghasilan secara sengaja, yang mengakibatkan kerugian pendapatan negara.",BERT,0.0,0.0,0.0
+"Terdakwa mengkreditkan faktur pajak fiktif tanpa transaksi sebenarnya, melanggar UU Ketentuan Umum dan Tata Cara Perpajakan.",BERT,0.0,0.0,0.0
+"Terdakwa menyampaikan faktur pajak tidak sah untuk mengurangi pajak yang terutang, menyebabkan kerugian negara.",BERT,0.2,1.0,0.3333333333333333
+Terdakwa terbukti melakukan pelanggaran Pasal 39 UU KUP dan Pasal 3 UU TPPU karena menyembunyikan aset dari penghasilan tak sah.,BERT,0.2,1.0,0.3333333333333333
+"Terdakwa tidak menyetorkan PPN yang telah dipungut kepada negara, berdasarkan pasal 39 ayat 1 huruf i UU KUP.",BERT,0.0,0.0,0.0

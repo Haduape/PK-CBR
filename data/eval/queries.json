@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Terdakwa tidak menyampaikan Surat Pemberitahuan (SPT) Tahunan Pajak Penghasilan secara sengaja, yang mengakibatkan kerugian pendapatan negara.",
+    "ground_truth": [
+      "case (24).txt"
+    ]
+  },
+  {
+    "query": "Terdakwa mengkreditkan faktur pajak fiktif tanpa transaksi sebenarnya, melanggar UU Ketentuan Umum dan Tata Cara Perpajakan.",
+    "ground_truth": [
+      "case (30).txt"
+    ]
+  },
+  {
+    "query": "Terdakwa menyampaikan faktur pajak tidak sah untuk mengurangi pajak yang terutang, menyebabkan kerugian negara.",
+    "ground_truth": [
+      "case (4).txt"
+    ]
+  },
+  {
+    "query": "Terdakwa terbukti melakukan pelanggaran Pasal 39 UU KUP dan Pasal 3 UU TPPU karena menyembunyikan aset dari penghasilan tak sah.",
+    "ground_truth": [
+      "case (3).txt"
+    ]
+  },
+  {
+    "query": "Terdakwa tidak menyetorkan PPN yang telah dipungut kepada negara, berdasarkan pasal 39 ayat 1 huruf i UU KUP.",
+    "ground_truth": [
+      "case (33).txt"
+    ]
+  },
+  {
+    "query": "Terdakwa tidak menyampaikan SPT Tahunan selama 3 tahun berturut-turut dan menyebabkan kerugian pada pendapatan negara.",
+    "ground_truth": [
+      "case(1).txt"
+    ]
+  },
+  {
+    "query": "Wajib Pajak didakwa memalsukan faktur pajak dan melanggar Pasal 39 ayat (1) huruf c UU KUP.",
+    "ground_truth": [
+      "case(4).txt"
+    ]
+  },
+  {
+    "query": "Terdakwa menyampaikan SPT Masa PPN yang tidak benar sehingga merugikan negara.",
+    "ground_truth": [
+      "case(7).txt"
+    ]
+  },
+  {
+    "query": "Tersangka menyuruh orang lain membuat faktur pajak fiktif untuk menghindari pembayaran PPN.",
+    "ground_truth": [
+      "case(12).txt"
+    ]
+  },
+  {
+    "query": "Wajib pajak diduga dengan sengaja tidak menyetorkan pajak yang telah dipotong dari pihak lain.",
+    "ground_truth": [
+      "case(15).txt"
+    ]
+  }
+]
